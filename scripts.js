@@ -5,41 +5,41 @@ const card = document.querySelector("div.card");
 
 const videos = [
   {
-    title: "Formulário Animado com JS puro e CSS Animation | Mayk Brito",
+    title: "Exemplo",
     duration: "57 min",
-    thumb: "https://i.ytimg.com/vi/GykTLqODQuU/hqdefault.jpg",
-    video_id: "GykTLqODQuU"
+    thumb: "https://www.youtube.com/watch?v=DjecRNbaFSM",
+    video_id: "DjecRNbaFSM"
   },
   {
-    title: "Desvendando o CSS Grid na prática | Mayk Brito",
+    title: "Exemplo",
     duration: "36 min",
-    thumb: "https://i.ytimg.com/vi/HN1UjzRSdBk/hqdefault.jpg",
-    video_id: "HN1UjzRSdBk"
+    thumb: "https://www.youtube.com/watch?v=DjecRNbaFSM",
+    video_id: "DjecRNbaFSM"
   },
   {
-    title: "Array: Higher Order Functions | Mayk Brito",
+    title: "Exemplo",
     duration: "54 min",
-    thumb: "https://i.ytimg.com/vi/rAzHvYnQ8DY/hqdefault.jpg",
-    video_id: "rAzHvYnQ8DY"
+    thumb: "https://www.youtube.com/watch?v=DjecRNbaFSM",
+    video_id: "DjecRNbaFSM"
   },
   {
-    title: "O que é API? REST e RESTful? | Mayk Brito",
+    title: "Exemplo",
     duration: "33 min",
-    thumb: "https://i.ytimg.com/vi/ghTrp1x_1As/hqdefault.jpg",
-    video_id: "ghTrp1x_1As"
+    thumb: "https://www.youtube.com/watch?v=DjecRNbaFSM",
+    video_id: "DjecRNbaFSM"
   },
   {
-    title: "Desvendando a variável this no Javascript | Mayk Brito",
+    title: "Exemplo",
     duration: "48 min",
-    thumb: "https://i.ytimg.com/vi/GSqR2i-Pq6o/hqdefault.jpg",
-    video_id: "GSqR2i-Pq6o"
+    thumb: "https://www.youtube.com/watch?v=DjecRNbaFSM",
+    video_id: "DjecRNbaFSM"
   },
   {
     title:
-      "Como usar Git e Github na prática: Guia para iniciantes | Mayk Brito",
+      "Exemplo",
     duration: "33 min",
-    thumb: "https://i.ytimg.com/vi/2alg7MQ6_sI/hqdefault.jpg",
-    video_id: "2alg7MQ6_sI"
+    thumb: "https://www.youtube.com/watch?v=DjecRNbaFSM",
+    video_id: "DjecRNbaFSM"
   }
 ];
 
